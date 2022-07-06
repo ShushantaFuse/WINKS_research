@@ -1,0 +1,15 @@
+*~
+*.tar.gz
+*.clean
+data/raw_otu_tables/*.tar.gz
+data/raw_otu_tables/*_results
+data/analysis_results/*.txt
+*.pyc
+*#
+*.DS_Store
+*.png
+*.pdf
+final/tables/*.tex
+final/tables/*.txt
+*.feather
+*.html

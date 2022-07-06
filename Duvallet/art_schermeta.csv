@@ -1,0 +1,115 @@
+,Organism,SampleType,Amplicon,DiseaseState,DetailedDiagnosis,SeqCenter,PatientGeo,dataset,sequencer,region,year,total_reads
+art_scher-011BFE,human,stool,v1-v2,PSA,Psoriatic arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,4098
+art_scher-012BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,2029
+art_scher-013BFE,human,stool,v1-v2,H,Healthy,CSISP,USA-NY,art_scher,454,V1-V2,2013,2950
+art_scher-014BFE,human,stool,v1-v2,H,Healthy,CSISP,USA-NY,art_scher,454,V1-V2,2013,1030
+art_scher-016BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,226
+art_scher-017BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,923
+art_scher-018BFE,human,stool,v1-v2,PSA,Psoriatic arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,1128
+art_scher-019BFE,human,stool,v1-v2,H,Healthy,CSISP,USA-NY,art_scher,454,V1-V2,2013,1493
+art_scher-020BFE,human,stool,v1-v2,H,Healthy,CSISP,USA-NY,art_scher,454,V1-V2,2013,2024
+art_scher-021BFE,human,stool,v1-v2,PSA,Psoriatic arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,1696
+art_scher-025BFE,human,stool,v1-v2,H,Healthy,CSISP,USA-NY,art_scher,454,V1-V2,2013,565
+art_scher-026BFE,human,stool,v1-v2,H,Healthy,CSISP,USA-NY,art_scher,454,V1-V2,2013,1232
+art_scher-027BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,2201
+art_scher-028BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,2463
+art_scher-029BFE,human,stool,v1-v2,RA,Treated chronic rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,429
+art_scher-030BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,2093
+art_scher-031BFE,human,stool,v1-v2,PSA,Psoriatic arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,798
+art_scher-032BFE,human,stool,v1-v2,RA,Treated chronic rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,1443
+art_scher-033BFE,human,stool,v1-v2,RA,Treated chronic rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,1435
+art_scher-034BFE,human,stool,v1-v2,RA,Treated chronic rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,982
+art_scher-035BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,1868
+art_scher-036BFE,human,stool,v1-v2,RA,Treated chronic rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,1149
+art_scher-037BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,1467
+art_scher-038BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,2161
+art_scher-040BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,2320
+art_scher-041BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,1602
+art_scher-042BFE,human,stool,v1-v2,PSA,Psoriatic arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,1388
+art_scher-043BFE,human,stool,v1-v2,PSA,Psoriatic arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,1331
+art_scher-045BFE,human,stool,v1-v2,H,Healthy,CSISP,USA-NY,art_scher,454,V1-V2,2013,1047
+art_scher-047BFE,human,stool,v1-v2,RA,Treated chronic rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,2078
+art_scher-004BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,1824
+art_scher-003BFE,human,stool,v1-v2,H,Healthy,CSISP,USA-NY,art_scher,454,V1-V2,2013,1276
+art_scher-001BFE,human,stool,v1-v2,H,Healthy,CSISP,USA-NY,art_scher,454,V1-V2,2013,1012
+art_scher-009BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,622
+art_scher-008BFE,human,stool,v1-v2,RA,Treated chronic rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,773
+art_scher-005BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,780
+art_scher-049BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,2306
+art_scher-051BFE,human,stool,v1-v2,RA,Treated chronic rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,967
+art_scher-052BFE,human,stool,v1-v2,H,Healthy,CSISP,USA-NY,art_scher,454,V1-V2,2013,1884
+art_scher-053BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,2111
+art_scher-055BFE,human,stool,v1-v2,PSA,Psoriatic arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,4092
+art_scher-056BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,1780
+art_scher-057BFE,human,stool,v1-v2,PSA,Psoriatic arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,1884
+art_scher-060BFE,human,stool,v1-v2,PSA,Psoriatic arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,2282
+art_scher-061BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,1145
+art_scher-062BFE,human,stool,v1-v2,PSA,Psoriatic arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,2432
+art_scher-063BFE,human,stool,v1-v2,PSA,Psoriatic arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,6065
+art_scher-064BFE,human,stool,v1-v2,H,Healthy,CSISP,USA-NY,art_scher,454,V1-V2,2013,4011
+art_scher-066BFE,human,stool,v1-v2,PSA,Psoriatic arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,1414
+art_scher-067BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,2118
+art_scher-068BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,1256
+art_scher-069BFE,human,stool,v1-v2,H,Healthy,CSISP,USA-NY,art_scher,454,V1-V2,2013,3216
+art_scher-070BFE,human,stool,v1-v2,H,Healthy,CSISP,USA-NY,art_scher,454,V1-V2,2013,4335
+art_scher-071BFE,human,stool,v1-v2,RA,Treated chronic rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,3417
+art_scher-072BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,1744
+art_scher-073BFE,human,stool,v1-v2,RA,Treated chronic rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,6315
+art_scher-075BFE,human,stool,v1-v2,RA,Treated chronic rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,3984
+art_scher-076BFE,human,stool,v1-v2,RA,Treated chronic rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,9195
+art_scher-077BFE,human,stool,v1-v2,PSA,Psoriatic arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,2428
+art_scher-078BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,8014
+art_scher-079BFE,human,stool,v1-v2,RA,Treated chronic rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,6381
+art_scher-080BFE,human,stool,v1-v2,RA,Treated chronic rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,5694
+art_scher-082BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,11247
+art_scher-084BFE,human,stool,v1-v2,RA,Treated chronic rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,9736
+art_scher-085BFE,human,stool,v1-v2,PSA,Psoriatic arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,7999
+art_scher-086BFE,human,stool,v1-v2,PSA,Psoriatic arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,5419
+art_scher-087BFE,human,stool,v1-v2,H,Healthy,CSISP,USA-NY,art_scher,454,V1-V2,2013,14779
+art_scher-088BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,6999
+art_scher-089BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,7531
+art_scher-090BFE,human,stool,v1-v2,RA,Treated chronic rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,3112
+art_scher-091BFE,human,stool,v1-v2,RA,Treated chronic rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,5015
+art_scher-092BFE,human,stool,v1-v2,RA,Treated chronic rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,3813
+art_scher-093BFE,human,stool,v1-v2,H,Healthy,CSISP,USA-NY,art_scher,454,V1-V2,2013,2507
+art_scher-094BFE,human,stool,v1-v2,RA,Treated chronic rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,2386
+art_scher-096BFE,human,stool,v1-v2,RA,Treated chronic rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,2175
+art_scher-097BFE,human,stool,v1-v2,RA,Treated chronic rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,3399
+art_scher-099BFE,human,stool,v1-v2,H,Healthy,CSISP,USA-NY,art_scher,454,V1-V2,2013,3037
+art_scher-100BFE,human,stool,v1-v2,H,Healthy,CSISP,USA-NY,art_scher,454,V1-V2,2013,4987
+art_scher-101BFE,human,stool,v1-v2,H,Healthy,CSISP,USA-NY,art_scher,454,V1-V2,2013,3690
+art_scher-102BFE,human,stool,v1-v2,RA,Treated chronic rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,2859
+art_scher-103BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,4658
+art_scher-104BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,3354
+art_scher-105BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,4291
+art_scher-107BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,2579
+art_scher-108BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,2328
+art_scher-109BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,2625
+art_scher-110BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,4339
+art_scher-112BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,4087
+art_scher-119BFE,human,stool,v1-v2,PSA,Psoriatic arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,1780
+art_scher-126BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,2077
+art_scher-128BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,3304
+art_scher-140BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,3455
+art_scher-142BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,2951
+art_scher-144BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,4157
+art_scher-147BFE,human,stool,v1-v2,H,Healthy,CSISP,USA-NY,art_scher,454,V1-V2,2013,1059
+art_scher-148BFE,human,stool,v1-v2,H,Healthy,CSISP,USA-NY,art_scher,454,V1-V2,2013,2530
+art_scher-150BFE,human,stool,v1-v2,H,Healthy,CSISP,USA-NY,art_scher,454,V1-V2,2013,834
+art_scher-169BFE,human,stool,v1-v2,H,Healthy,CSISP,USA-NY,art_scher,454,V1-V2,2013,548
+art_scher-170BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,2031
+art_scher-172BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,945
+art_scher-174BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,1669
+art_scher-176BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,2744
+art_scher-178BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,1106
+art_scher-179BFE,human,stool,v1-v2,RA,New onset rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,1487
+art_scher-186BFE,human,stool,v1-v2,H,Healthy,CSISP,USA-NY,art_scher,454,V1-V2,2013,1655
+art_scher-187BFE,human,stool,v1-v2,H,Healthy,CSISP,USA-NY,art_scher,454,V1-V2,2013,2420
+art_scher-502AFE,human,stool,v1-v2,RA,Treated chronic rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,2187
+art_scher-503AFE,human,stool,v1-v2,H,Healthy,CSISP,USA-NY,art_scher,454,V1-V2,2013,2973
+art_scher-504AFE,human,stool,v1-v2,RA,Treated chronic rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,3790
+art_scher-505AFE,human,stool,v1-v2,H,Healthy,CSISP,USA-NY,art_scher,454,V1-V2,2013,3988
+art_scher-506AFE,human,stool,v1-v2,RA,Treated chronic rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,733
+art_scher-507AFE,human,stool,v1-v2,H,Healthy,CSISP,USA-NY,art_scher,454,V1-V2,2013,750
+art_scher-508AFE,human,stool,v1-v2,RA,Treated chronic rheumatoid arthritis,CSISP,USA-NY,art_scher,454,V1-V2,2013,3130
+art_scher-509AFE,human,stool,v1-v2,H,Healthy,CSISP,USA-NY,art_scher,454,V1-V2,2013,2157

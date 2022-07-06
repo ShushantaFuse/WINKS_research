@@ -1,0 +1,1 @@
+This folder will contain the figures made by `make figures`, via scripts in `../../src/final/`.
